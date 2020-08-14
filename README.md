@@ -1,5 +1,5 @@
 # Edge-Detection-and-Hough-Transform-for-Circle-detection
-Implementation of Hough Transform using Sobel edges for the purposes of circle detection.
+Implementation of Hough Transform for the purposes of circle detection using edges extracted with Sobel filter.
 
 ### Sobel Edges
 We implemented the Sobel filter using Convolution with two 3x3 kernels. We create an edge map by adding the convulution results.
