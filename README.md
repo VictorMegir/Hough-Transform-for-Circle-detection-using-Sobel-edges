@@ -1,4 +1,4 @@
-# Edge-Detection-and-Hough-Transform-for-Circle-detection
+# Hough-Transform-for-Circle-detection-using-Sobel-edges
 Implementation of Hough Transform for the purposes of circle detection using edges extracted with Sobel filter.
 
 ### Sobel Edges
